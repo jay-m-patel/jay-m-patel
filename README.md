@@ -51,7 +51,7 @@ clear boundaries, predictable behavior, and scalable structures.
 
 ## Public work
 
-Most professional work lives in private repositories due to client confidentiality.
+Most professional work lives in private repositories due to client confidentiality or because it was developed within organization-owned GitHub accounts during full-time or contract engagements.
 
 Public repositories here represent:
 - Reusable foundations
